@@ -4,7 +4,7 @@ Bem-vindo ao meu repositório! Este é o código-fonte do meu site pessoal, um p
 
 Atualmente, o site está em sua versão inicial, mas o objetivo é expandir e melhorar constantemente. Fique à vontade para acompanhar as atualizações e contribuições!
 
-Caso deseje ver o site, clique aqui.
+Caso deseje ver o site, clique [aqui](www.celsoneto.site).
 
 ## Funcionalidades Atuais
 
