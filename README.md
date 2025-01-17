@@ -4,7 +4,7 @@ Bem-vindo ao meu repositório! Este é o código-fonte do meu site pessoal, um p
 
 Atualmente, o site está em sua versão inicial, mas o objetivo é expandir e melhorar constantemente. Fique à vontade para acompanhar as atualizações e contribuições!
 
-Caso deseje ver o site, clique [aqui](www.celsoneto.site).
+Caso deseje ver o site, clique [aqui](https://www.celsoneto.site).
 
 ## Funcionalidades Atuais
 
@@ -26,3 +26,7 @@ Com o tempo, a ideia é adicionar mais seções e funcionalidades, como:
   <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
+
+## Sites Auxiliares
+
+- **[Uiverse.io](https://uiverse.io)**: As animações foram retiradas deste site.
